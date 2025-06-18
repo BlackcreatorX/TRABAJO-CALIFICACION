@@ -1,5 +1,5 @@
 #ifndef PROMEDIO_H
-#define PROYECTO_H
+#define PROMEDIO_H
 
 float funxPromedio(float numNuevo, float promedioAnterior){
 	float Promedio=(numNuevo+promedioAnterior)/2;
